@@ -1,2 +1,2 @@
 # User_Managent
-CRUD operations using Flask framework and MongoDB database
+Python REST API CRUD Example using Flask and MongoDB.
